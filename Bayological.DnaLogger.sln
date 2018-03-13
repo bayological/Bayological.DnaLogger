@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bayological.DnaLogger", "Bayological.DnaLogger\Bayological.DnaLogger.csproj", "{DF1406C3-86B4-4E77-8012-733B655C56C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1406C3-86B4-4E77-8012-733B655C56C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1406C3-86B4-4E77-8012-733B655C56C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1406C3-86B4-4E77-8012-733B655C56C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1406C3-86B4-4E77-8012-733B655C56C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53160548-2713-471C-9866-DEC96EDFDE4D}
+	EndGlobalSection
+EndGlobal
